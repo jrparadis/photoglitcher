@@ -10,8 +10,13 @@ best results of thousands:
 (uploading these actually changed them - some for the better)
 
 https://raw.githubusercontent.com/jrparadis/photoglitcher/master/arpszxrubfmcnngxfof6.jpg
+
 https://raw.githubusercontent.com/jrparadis/photoglitcher/master/azwhpzehjawv9.jpg
+
 https://raw.githubusercontent.com/jrparadis/photoglitcher/master/bziyowtodakihanomrb12.jpg
+
 https://raw.githubusercontent.com/jrparadis/photoglitcher/master/gvvfkmrwljvifse6.jpg
+
 https://raw.githubusercontent.com/jrparadis/photoglitcher/master/kabnmsvufnbmjvcem13.jpg
+
 https://raw.githubusercontent.com/jrparadis/photoglitcher/master/rkzdnuwuiwwmd7.jpg
