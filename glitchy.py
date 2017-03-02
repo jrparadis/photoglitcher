@@ -2,7 +2,6 @@ import random
 import urllib
 import urllib2
 import Image
-import json
 import sys
 import traceback
 import shutil
