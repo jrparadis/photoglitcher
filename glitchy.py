@@ -1,4 +1,5 @@
 import random
+#should use urllib2 for everything
 import urllib
 import urllib2
 import sys
